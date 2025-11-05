@@ -1,3 +1,7 @@
+<a href="https://canssiontario.utoronto.ca/french-trot-horse-racing-undergraduate-award/news/">
+  <img src="https://canssiontario.utoronto.ca/wp-content/uploads/2024/12/Undergraduate-Horse-Racing-Winner-Post-1-2048x2048.png" width="350" />
+</a>
+
 # CANSSI-Horse-Racing
 
 This repository is dedicated for participation in French Trot Horse Racing: Forecasting Competition organized by CANSSI Ontario.
